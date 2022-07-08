@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.example.신고_결과_받기.SolutionTest" tests="4" skipped="0" failures="0" errors="0" timestamp="2022-07-08T07:18:17" hostname="Evan-Hwangui-gigye.local" time="0.059">
+  <properties/>
+  <testcase name="정지 조건 횟수를 넘지 못하면 알림을 받지 못한다." classname="org.example.신고_결과_받기.SolutionTest" time="0.056"/>
+  <testcase name="정지 조건 횟수를 넘은 유저에 대해서 메일을 받는다." classname="org.example.신고_결과_받기.SolutionTest" time="0.001"/>
+  <testcase name="신고 했던 유저에가 정지당하면 알림 받는 조건이 된다." classname="org.example.신고_결과_받기.SolutionTest" time="0.001"/>
+  <testcase name="동일 유저에 대한 신고 횟수는 1회로 처리된다." classname="org.example.신고_결과_받기.SolutionTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
